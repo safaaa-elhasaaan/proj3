@@ -1,0 +1,32 @@
+nav.navbar{
+    background-color: rgb(242, 207, 30);
+    
+    
+}
+.card-img{ 
+    height: 600px;
+    opacity: 0.2;
+}
+.card{
+    position: relative;
+}
+.card-title{
+    position: absolute;
+    top: 160px;
+    left: 550px;
+}
+.card-text{
+    position: absolute;
+    top: 230px;
+    left: 200px; 
+}
+.container{
+    position: absolute;
+    top: 350px;
+    left: 350px; 
+}
+.btn{
+    position: absolute;
+    bottom:0px;
+    left: 410px;  
+}
